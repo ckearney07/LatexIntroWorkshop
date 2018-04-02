@@ -41,7 +41,7 @@ All of the tools we discussed are also linked at the bottom.
 * [Write your first Latex document](https://github.com/ckearney07/latex-sp17-intro-workshop/blob/master/References/1%20-%20Minimal.tex)
 * [ShareLatex default](https://github.com/ckearney07/latex-sp17-intro-workshop/blob/master/References/2%20-%20Sharelatex%20Default.tex)
 	- When you start a new, blank, project in ShareLaTeX, the default document pre-populates a number of things for you, giving you a document that is guarantee to compile. The template utilizes a few more features than the minimal document, though.
-* [Document Structure and Style](https://github.com/ckearney07/latex-sp17-intro-workshop/blob/master/References/4%20-%20Structure.tex)
+* [Document Structure and Style](https://github.com/ckearney07/LatexIntroWorkshop/blob/master/References/3%20-%20Structure.tex)
 	- Each class has a number of options you can specify. Common options might include font size, number of columns, margins, type of paper, etc.
 	- There are also many, many classes to choose from. Each one provides a different default styling, and occasionally new commands you can use to further customize your formatting. Examples classes include: report, book, slides, article, letter
 * [Math Equations](https://github.com/ckearney07/LatexIntroWorkshop/blob/master/References/4%20-%20Structure_Math.tex)
