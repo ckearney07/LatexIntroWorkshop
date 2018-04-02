@@ -49,7 +49,7 @@ All of the tools we discussed are also linked at the bottom.
 * [Environments: Lists and tables](https://github.com/ckearney07/LatexIntroWorkshop/blob/master/References/5%20-%20Structure_Math_Environments)
 	- What is an environment?
 	- How to an environment?
-* Bibliography
+* Next: Figures and Bibliographies
 
 # Live Code
 - [Completed Live Code Document](https://www.sharelatex.com/project/5ac270b76f8fb00b474e78f6)
