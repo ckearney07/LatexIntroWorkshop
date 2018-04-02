@@ -1,11 +1,10 @@
 # :zap: HTML PD Introduction to Latex :zap:
-Source files, links, and references for the 2017 Winter Quarter Introductory Latex Workshop.
+Source files, links, and references for the Tulane Howard-Tilton Memorial Library Introduction to Latex Workshop.
 
 If you haven't already, please sign in [here](https://goo.gl/forms/DbSpNcUIvKwk7Jyi2)
 
 # Description
-Latex is a markup language, like HTML, that gives you a way to type up
-mathematical documents that looks clean and professional.
+Latex is a markup language, like HTML, that gives you a way to type up documents that looks clean and professional.
 
 It is widely used in STEM (Science, Technology, Engineering, and
 Mathematics) disciplines to produce documents that include
@@ -16,10 +15,8 @@ organized lecture notes. It allows you to easily save and edit your
 "source code", which you can then easily use to generate PDFs or even
 web pages.
 
-Latex is also widely used across academia, so this is a particularly
-good tool to know for those who are considering graduate school.
-However, it is also gaining popularity elsewhere - for example, it's
-possible to use Latex to produce resumes, reports, or presentations.
+Latex is also widely used across academia, however, it is also gaining popularity elsewhere - for example, it's
+possible to use Latex to produce [resumes](https://www.overleaf.com/gallery/tagged/cv#.WsJbnujwaUk), [reports](https://www.overleaf.com/gallery/tagged/report#.WsJb2ujwaUk), or [presentations](https://www.overleaf.com/gallery/tagged/presentation#.WsJbvujwaUk).
 
 This workshop will cover how to set up a Latex environment, how to
 produce most of the mathematical symbols seen in undergraduate
