@@ -63,6 +63,7 @@ All of the tools we discussed are also linked at the bottom.
 * Document Samples:
   * [Overleaf Gallery](https://www.overleaf.com/gallery)
 * General Purpose
+  * [Cheat Sheet](http://www.math.brown.edu/~jhs/ReferenceCards/LaTeXRefCard.v2.0.pdf)
   * [TexZilla](https://fred-wang.github.io/TeXZilla/): A REPL for Math expressions
   * [Detexify](http://detexify.kirelabs.org/classify.html): Find commands for unknown symbols.
   * [Equation Editor](https://www.codecogs.com/latex/eqneditor.php) GUI for generating code for more complicated expressions
