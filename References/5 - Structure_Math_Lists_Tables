@@ -1,0 +1,125 @@
+\documentclass[11pt,letterpaper]{article}
+
+\author{Gerolamo Cardano}
+\date{March 14, 1592}
+\title{A \LaTeX Workshop \\ for All Skill Levels}
+
+\begin{document}
+
+\maketitle
+\newpage
+
+\tableofcontents
+\newpage
+
+\section{Introduction}
+Here, you can just type normal text.
+
+Create new paragraphs by pressing Enter twice.
+\newpage
+
+\section{Main Content}
+The Latex engine also takes care of numbering your sections automatically. 
+
+    \subsection{Mathematics}
+
+        \subsubsection{Inline Math}
+
+        Things like $x+y = z$ or $f(x)=ax^2 + bx + c$ is rendered right along with your text.
+
+        \subsubsection{Equations}
+        You can also do full equations on their own lines such as $$ \sum_{i=0}^\infty i = -\frac{1}{12} $$.
+        
+    \subsection{Environments}
+    
+    Before seeing all of the math syntax we'll need, we have to take a brief interlude to discuss environments. Environments are commands that come in pairs, with a "begin" command that needs to be match to an "end" command.
+        
+    We've already seen one example - the document environment, which is where all of our content goes. You can use other environments in the same way; here are a few commonly used examples:
+    
+        \subsubsection{Center}
+            \begin{center}
+            The \textbf{center} environment centers whatever's in it.
+            \end{center}
+            
+        \subsubsection{Tabular}
+            The \textbf{tabular} environment lets you align things in a table:\\
+            \begin{tabular}{ c c c } 
+              cell1 & cell2 & cell3 \\ 
+              cell4 & cell5 & cell6 \\ 
+              cell7 & cell8 & cell9 \\ 
+            \end{tabular}
+    
+            % Notes: here, \textbackslash\textbackslash is used to tell the environment where each row ends.
+            
+            % The tabular environment takes mandatory options to specify how many columns there are, and how they should be aligned.
+            
+            % Here, the three 'c's denote 3 \textbf{center-aligned} columns. 
+            
+            % You could also choose 'l' for \textbf{left-aligned} or 'r' for \textbf{right-aligned} columns.
+            
+            % Note that the number of letters in the argument must match the number of columns!
+            
+            % The \& symbol then functions as the "anchor points" for how the alignment is performed. The point where the 1st \& occurs on each row will all be aligned in a vertical column, and the 2nd and 3rd are all grouped similarly.
+        \subsubsection{Center + Tabular}
+            You can also combine these two environments:
+            
+                \begin{center}
+                \begin{tabular}{| l | l | l | p{5cm} |}
+                \hline
+                Day & Min Temp & Max Temp & Summary \\ \hline
+                Monday & 11C & 22C & A clear day with lots of sunshine.
+                However, the strong breeze will bring down the temperatures. \\ \hline
+                Tuesday & 9C & 19C & Cloudy with rain, across many northern regions. Clear spells 
+                across most of Scotland and Northern Ireland, 
+                but rain reaching the far northwest. \\ \hline
+                Wednesday & 10C & 21C & Rain will still linger for the morning. 
+                Conditions will improve by early afternoon and continue 
+                throughout the evening. \\
+                \hline
+                \end{tabular}
+                \end{center}
+            
+            Here we just added a few more things: the \textbar~ symbol places vertical bars between each column.
+            
+            The "p\{5cm\}" in the last column is another option that styles the contents like a paragraph of text, and allows setting a manual width so the table doesn't overflow the side of the page.
+            
+            The \textbackslash hline command creates horizontal lines. \\\\
+            
+            \textbf{A Note on Tables:} The table functionality built into \LaTeX is very powerful, but also very tricky to get right. It's often easier to design your table layout in an external editor first, then copy-paste the code into your document.
+            
+            One such editor that I recommend is \url{http://www.tablesgenerator.com/}
+    
+        \subsubsection{Enumerate}
+            Enumerate is used to make \textbf{ordered} lists, and will automatically number the elements.
+            
+            \begin{enumerate}
+              \item First Item
+              \item Another Item
+              \item Even more items
+             
+            \end{enumerate}
+        
+        \subsection{Itemize}
+            Itemize is used for \textbf{unordered} lists, and will supply bulletsfor each item.
+            
+            \begin{itemize}
+              \item An Item
+              \item An Equally Good item
+              
+                You can still add aligned text to any item.
+            
+              \item Also a Good Item
+              
+            \end{itemize}
+        
+        
+    
+        \subsection{Wrap Up}
+        That's all for this section.
+
+
+\section{Filler Text}
+More document content!
+
+
+\end{document}
