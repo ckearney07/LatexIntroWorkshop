@@ -54,11 +54,6 @@ All of the tools we discussed are also linked at the bottom.
 # Live Code
 - [Completed Live Code Document](https://www.sharelatex.com/project/5ac270b76f8fb00b474e78f6)
 
-# Additional References
-- Minimal documents, writing theorems/proofs, structuring your document, advanced environments and more: 
-  - [Reference Project](https://www.sharelatex.com/project/58a66ba9dc437fe62c880f92)
-  - [Reference Project (With Explanatory Comments)](https://www.sharelatex.com/project/58a66cdddc437fe62c880fb3)
-
 # Useful Tools
 * Document Samples:
   * [Overleaf Gallery](https://www.overleaf.com/gallery)
