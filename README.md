@@ -10,23 +10,21 @@ It is widely used across academia for [publications](https://www.overleaf.com/ga
 
 It is also gaining popularity elsewhere - for example, it's possible to use Latex to produce [resumes](https://www.overleaf.com/gallery/tagged/cv#.WsJbnujwaUk), [reports](https://www.overleaf.com/gallery/tagged/report#.WsJb2ujwaUk), or [presentations](https://www.overleaf.com/gallery/tagged/presentation#.WsJbvujwaUk).
 
-This workshop will cover how to set up a Latex environment, how to
-produce most of the mathematical symbols seen in undergraduate
-courses, and how generate a completed PDF document.
+This workshop will cover how to create a latex document, how to
+insert mathematical equations, tables and lists, and how to generate a completed PDF document.
 
-Please bring a laptop to follow along!
+Please use a laptop to follow along!
 
 # Topics Covered
 * Why choose Latex
 	* Demos of actual LaTeX docs 
 * Writing your first Latex document
 * Titles, dates, and authors and sections
-* The Preamble
 * Sections and subsections
 * Document Classes
-* Math Examples
+* Math examples
     * Inline, equation, align environments 
-* How to use packages
+* Enviornments: Tables, lists
 
 # Getting Started
 1. Make sure that you have an account on [ShareLatex.com](https://www.sharelatex.com)
@@ -48,8 +46,7 @@ All of the tools we discussed are also linked at the bottom.
 	- There are also many, many classes to choose from. Each one provides a different default styling, and occasionally new commands you can use to further customize your formatting. Examples classes include: report, book, slides, article, letter
 * Table of Contents
 	- add \tableofcontents after \begin{document}
-* Lists and tables
-* Figures
+* Environments: Lists and tables
 * Bibliography
 
 # Live Code
