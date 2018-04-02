@@ -29,7 +29,8 @@ The Latex engine also takes care of numbering your sections automatically.
 
         \subsubsection{Equations}
         You can also do full equations on their own lines such as $$ \sum_{i=0}^\infty i = -\frac{1}{12} $$.
-        
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     \subsection{Environments}
     
     Before seeing all of the math syntax we'll need, we have to take a brief interlude to discuss environments. Environments are commands that come in pairs, with a "begin" command that needs to be match to an "end" command.
@@ -111,7 +112,7 @@ The Latex engine also takes care of numbering your sections automatically.
               \item Also a Good Item
               
             \end{itemize}
-        
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        
         
     
         \subsection{Wrap Up}
