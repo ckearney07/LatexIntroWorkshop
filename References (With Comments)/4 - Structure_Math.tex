@@ -1,25 +1,70 @@
-\documentclass{article}
+% Each class has a number of options you can specify.
+% Common options might include font size, number of columns, margins, type of paper, etc
+\documentclass[11pt,letterpaper]{article}
 
-\usepackage{amsthm}
+% There are also many, many classes to choose from. (See slides for example output)
+% Each one provides a different default styling, and occasionally new commands you can use
+% to further customize your formatting.
+%\documentclass[]{IEEEtran}
+%\documentclass[]{proc}
+%\documentclass[]{report}
+%\documentclass[]{book}
+%\documentclass[]{slides}
+%\documentclass[]{memoir}
+%\documentclass[]{letter}
+%\documentclass[]{beamer}
 
-% This AMS package gives us a newtheorem command, which can be extended to define new environments of things that should logically be one piece - like a claim or definition. Each gets its own separate numbering, and allows you to reference it later on by label.
-\newtheorem{defn}{Definition}
-\newtheorem{claim}{Claim}
+% Here, we'll set up some variables that the article class uses.
+\author{Your name here}
 
+% If you don't specify a date, it will just use today's date.
+\date{Enter name}
+
+% You can use arbitrary LaTex markup inside of these commands.
+% Here we're using a command to generate
+% text that will be used for a title section, and inserting a manual line break.
+\title{A \LaTeX document test}
+
+% Later on, we'll call a command to make a title section (or even a title page)
+% which will use these variables.
+ 
+% The document is set up, so now we'll start writing actual content.
 \begin{document}
 
-% Immediately using the 'defn' environment we made in the preamble:
-\begin{defn}
-A \textbf{topology} $\mathcal{T}$ on a set $X$, denoted $\mathcal{T}(X)$, is a subset of $2^X$ (the powerset of $X$) satisfying...
-\end{defn}
+% This command just gives us a nicely formatted title, using the variables we set earlier.
+\maketitle
 
-\begin{claim}
-Suppose $X$ is a set and $\mathcal{T}$ is a topology on $X$. Then $\mathcal{T}$ is great.
-\end{claim}
+% This command adds a page break. 
+\newpage
 
-% Proof inserts a nice square at the end of all of its content, aligned to the right - this is usually a stand-in for something like "Proof Completed", "QED", etc.
-\begin{proof}
-Left as an exercise for the reader.
-\end{proof}
+% To create a table of contents, add the command below
+\tableofcontents
+
+% Most document classes expect your content to be broken up into logical chunks. For the article
+% class, it's sections, subsections, and so on.
+% (For a book, you may use "chapter" commands and so on.)
+\section{Introduction}
+Here, you can just type normal text.
+
+Create new paragraphs by pressing Enter twice.
+
+% Notice that the compiler figures out the numbering for you
+\section{Main Content}
+The Latex engine also takes care of numbering your sections automatically. 
+
+    % And the numbering is hierarchical.
+    \subsection{Main Content Subsection}
+
+        \subsubsection{Main Content Subsubsection}
+
+        \subsubsection{Main Content Subsubsection 2}
+        
+    \subsection{Wrap Up}
+    That's all for this section.
+
+
+\section{Filler Text}
+More document content!
+
 
 \end{document}
