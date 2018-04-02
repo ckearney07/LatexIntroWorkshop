@@ -53,11 +53,15 @@ Create new paragraphs by pressing Enter twice.
 The Latex engine also takes care of numbering your sections automatically. 
 
     % And the numbering is hierarchical.
-    \subsection{Main Content Subsection}
-
-        \subsubsection{Main Content Subsubsection}
-
-        \subsubsection{Main Content Subsubsection 2}
+    \subsection{Mathematics}
+        
+        % Inline text is bookended by $
+        \subsubsection{Inline Math}
+        Things like $x+y = z$ or $f(x)=ax^2 + bx + c$ is rendered right along with your text.
+        
+        % Equations on their own line are identified by $$
+        \subsubsection{Equations}
+        You can also do full equations on their own lines such as $$ \sum_{i=0}^\infty i = -\frac{1}{12} $$.
         
     \subsection{Wrap Up}
     That's all for this section.
