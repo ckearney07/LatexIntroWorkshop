@@ -27,9 +27,8 @@ Please bring a laptop to follow along!
 # Topics Covered
 * Why choose Latex
 	* Demos of actual LaTeX docs 
-* Compiling a minimal document
-    * What is an environment? 
-* Titles and sections
+* Writing your first Latex document
+* Titles, dates, and authors and sections
 * The Preamble
 * Sections and subsections
 * Document Classes
@@ -47,6 +46,19 @@ If you get stuck at any point, you can refer to the fully completed documents be
 If you're interested in learning more, there are also a number of ShareLatex projects that go deeper into the topics we covered available in the **References** section below. The source is also available in this repository, if you want to try downloading and compiling yourself.
 
 All of the tools we discussed are also linked at the bottom.
+
+# Lets Play!
+* [Write your first Latex document](https://github.com/ckearney07/latex-sp17-intro-workshop/blob/master/References/1%20-%20Minimal.tex)
+* [ShareLatex default](https://www.sharelatex.com/project/5ac270b76f8fb00b474e78f6)
+- When you start a new, blank, project in ShareLaTeX, the default document pre-populates a number of things for you, giving you a document that is guarantee to compile. The template utilizes a few more features than the minimal document, though.
+* [Document Structure and Style](https://github.com/ckearney07/latex-sp17-intro-workshop/blob/master/References/4%20-%20Structure.tex)
+- Each class has a number of options you can specify. Common options might include font size, number of columns, margins, type of paper, etc.
+- There are also many, many classes to choose from. Each one provides a different default styling, and occasionally new commands you can use to further customize your formatting. Examples classes include: report, book, slides, article, letter
+* Table of Contents
+- add \tableofcontents after \begin{document}
+* Lists and tables
+* Figures
+* Bibliography
 
 # Live Code
 - [Completed Live Code Document](https://www.sharelatex.com/project/58a66588dc437fe62c880e91)
