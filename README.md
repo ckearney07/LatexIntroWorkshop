@@ -19,7 +19,7 @@ Please use a laptop to follow along!
 * Why choose Latex
 	* Demos of actual LaTeX docs 
 * Writing your first Latex document
-* Titles, dates, and authors and sections
+* Titles, dates, and authors
 * Sections and subsections
 * Document Classes
 * Math examples
