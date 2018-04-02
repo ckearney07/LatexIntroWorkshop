@@ -1,8 +1,8 @@
 \documentclass[11pt,letterpaper]{article}
 
 \author{Your name here}
-\date{Enter date}
-\title{A \LaTeX document test}
+\date{\today}
+\title{A more advanced \LaTeX document test}
 
 \begin{document}
 
