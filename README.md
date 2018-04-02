@@ -6,17 +6,9 @@ If you haven't already, please sign in [here](https://goo.gl/forms/DbSpNcUIvKwk7
 # Description
 Latex is a markup language, like HTML, that gives you a way to type up documents that looks clean and professional.
 
-It is widely used in STEM (Science, Technology, Engineering, and
-Mathematics) disciplines to produce documents that include
-mathematical notation, like [publications](https://www.overleaf.com/gallery/tagged/academic-journal#.WsJaLujwaUk), [theses](https://www.overleaf.com/gallery/tagged/thesis#.WsJaeujwaUk), and [books](https://www.overleaf.com/gallery/tagged/book#.WsJaZ-jwaUk).
+It is widely used across academia for [publications](https://www.overleaf.com/gallery/tagged/academic-journal#.WsJaLujwaUk), [theses](https://www.overleaf.com/gallery/tagged/thesis#.WsJaeujwaUk), and [books](https://www.overleaf.com/gallery/tagged/book#.WsJaZ-jwaUk).
 
-However, it can also be used type up homework assignments or produce
-organized lecture notes. It allows you to easily save and edit your
-"source code", which you can then easily use to generate PDFs or even
-web pages.
-
-Latex is also widely used across academia, however, it is also gaining popularity elsewhere - for example, it's
-possible to use Latex to produce [resumes](https://www.overleaf.com/gallery/tagged/cv#.WsJbnujwaUk), [reports](https://www.overleaf.com/gallery/tagged/report#.WsJb2ujwaUk), or [presentations](https://www.overleaf.com/gallery/tagged/presentation#.WsJbvujwaUk).
+It is also gaining popularity elsewhere - for example, it's possible to use Latex to produce [resumes](https://www.overleaf.com/gallery/tagged/cv#.WsJbnujwaUk), [reports](https://www.overleaf.com/gallery/tagged/report#.WsJb2ujwaUk), or [presentations](https://www.overleaf.com/gallery/tagged/presentation#.WsJbvujwaUk).
 
 This workshop will cover how to set up a Latex environment, how to
 produce most of the mathematical symbols seen in undergraduate
