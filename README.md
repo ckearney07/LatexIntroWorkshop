@@ -1,7 +1,7 @@
-# :zap: latex-sp17-intro-workshop :zap:
+# :zap: HTML PD Introduction to Latex :zap:
 Source files, links, and references for the 2017 Winter Quarter Introductory Latex Workshop.
 
-If you haven't already, please sign in at [https://docs.google.com/forms/d/e/1FAIpQLSe0dJ0tWM5b2KOptAgh_NweLZxhFEqs3NVvFxRdEY4TeZVx1A/viewform](https://docs.google.com/forms/d/e/1FAIpQLSe0dJ0tWM5b2KOptAgh_NweLZxhFEqs3NVvFxRdEY4TeZVx1A/viewform)
+If you haven't already, please sign in [here](https://goo.gl/forms/DbSpNcUIvKwk7Jyi2)
 
 # Description
 Latex is a markup language, like HTML, that gives you a way to type up
@@ -9,7 +9,7 @@ mathematical documents that looks clean and professional.
 
 It is widely used in STEM (Science, Technology, Engineering, and
 Mathematics) disciplines to produce documents that include
-mathematical notation, like publications, theses, and books.
+mathematical notation, like [publications](https://www.overleaf.com/gallery/tagged/academic-journal#.WsJaLujwaUk), [theses](https://www.overleaf.com/gallery/tagged/thesis#.WsJaeujwaUk), and [books](https://www.overleaf.com/gallery/tagged/book#.WsJaZ-jwaUk).
 
 However, it can also be used type up homework assignments or produce
 organized lecture notes. It allows you to easily save and edit your
