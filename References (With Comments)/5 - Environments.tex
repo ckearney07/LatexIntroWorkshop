@@ -161,97 +161,11 @@
           
         \end{itemize}
 
-    \subsection{equation}
-        We saw block-level equations in the last document, but there are several environments that are particularly suited to these - especially if they span multiple lines.
-        \begin{equation}
-            % Everything in here is automatically in math mode.
-            a^2 + b^2 = c^2
-            \label{eq:pythagoras} % Here we make up a "shortcut" that we'll refer back to lter
-        \end{equation}
-        
-        Why is this better than using \$\$?
-        
-        Notice the (1) that was added on the right hand side automatically - the equation environment will automatically number your equations, and even let you refer back to individual equations using label names. 
-        
-        These work automatically using the \textbackslash ref command, i.e. "See Equation (\ref{eq:pythagoras})"
-
-        \newpage
-
-        You can also suppress the automatic numbering using \* in the environment name:
-        
-        \begin{equation*}
-            % Everything in here is automatically in math mode.
-            a^2 + b^2 = c^2
-            \label{eq:pythagoras2}
-        \end{equation*}
-        
-        This is also useful for easily grouping together a result or calculation and, for example, boxing it:
-        
-        \begin{equation}
-         \boxed{x = \pm \sqrt{z^2 - y^2}}
-        \end{equation}
-        
-        However, this environment isn't the best for multi-line equations. For those, you'll want to import the AMSMath package, which provides:
-
-    \subsection{align}
-        This functions almost exactly like \textbf{equation} by default, but supports multiple lines.
-        \begin{align}
-         f(x) &= (x+a)(x+b) \\
-              &= x^2 + (a+b)x + ab
-        \end{align}
-        
-        You can still suppress numbering altogether with \*:
-        
-        \begin{align*}
-         f(x) &= (x+a)(x+b) \\
-              &= x^2 + (a+b)x + ab
-        \end{align*}
-        
-        Or prevent numbering on individual lines:
-        
-        \begin{align}
-         f(x) &= (x+a)(x+b) \nonumber \\
-              &= x^2 + (a+b)x + ab
-        \end{align}
-
-    \subsection{figure}
-        The figure environment is what you'll use just about any time you want to include an external image. It allows you to supply captions, and automatically handles numbering. Note that if your images are larger than the page, they will overflow! So it's a good habit to always supply the desired width.
-        
-        \begin{figure}
-          \caption{Noncontractible paths on a torus.}
-            % This does the magic of actually including the image
-            \includegraphics[width=\textwidth]{ending-3} 
-        \end{figure}
-        
-        Note that the image doesn't always go exactly where you wrote it in the document - behind the scenes, Latex makes some default decisions about where images should be placed to keep the text flowing smoothly.
-        
-        You can control the placement and sizing a bit:
-        \begin{figure}[h] % h denotes "here"
-        \centering
-          \caption{Noncontractible paths on a torus.}
-            \includegraphics[width=0.5\textwidth,keepaspectratio]{ending-3}
-        \end{figure}
+ \subsection{Wrap Up}
+        That's all for this section.
 
 
-\section{Etc}
-
-    \subsection{Footnotes}
-        You can create a footnote at any time using the \textbackslash footnote command, and it will be placed roughly on the same page as the other text surrounding it. The command will insert a hyperlink wherever you place it, though, with the number automatically assigned.\footnote{\label{myFootnoteName}I'm all the way down here!}
-        
-        You can also give it a label name (much like for equations), and refer to it later: "See footnote~\ref{myFootnoteName}"
-
-    \newpage
-
-    \subsection{Bibliography}
-    Once you have the bibliography defined, you can reference it with the cite command. For example, see \cite{sourceName2} for more information.
-
-% Most often, you would want to have a references section in your document.
-% The easiest way to set this up would be by using the bibliography section
-\begin{thebibliography}{1}
-    % Similar to other lists, the \bibitem command can be used to list items
-    % each entry can then be cited directly in the body of the text
-    \bibitem{sourceName1} Amazing Source 1: www.source1.com
-    \bibitem{sourceName2} Amazing Source 2: www.source2.com
-\end{thebibliography}
+\section{Filler Text}
+More document content!
 
 \end{document}
