@@ -1,8 +1,8 @@
 \documentclass[11pt,letterpaper]{article}
 
-\author{Gerolamo Cardano}
-\date{March 14, 1592}
-\title{A \LaTeX Workshop \\ for All Skill Levels}
+\author{Your name here}
+\date{Enter date}
+\title{A \LaTeX document test}
 
 \begin{document}
 
