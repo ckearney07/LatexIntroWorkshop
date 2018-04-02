@@ -1,6 +1,6 @@
 % Each class has a number of options you can specify.
 % Common options might include font size, number of columns, margins, type of paper, etc
-\documentclass[11pt,twoside,a4paper]{article}
+\documentclass[11pt,letterpaper]{article}
 
 % There are also many, many classes to choose from. (See slides for example output)
 % Each one provides a different default styling, and occasionally new commands you can use
@@ -15,15 +15,15 @@
 %\documentclass[]{beamer}
 
 % Here, we'll set up some variables that the article class uses.
-\author{Gerolamo Cardano}
+\author{Your name here}
 
 % If you don't specify a date, it will just use today's date.
-\date{March 14, 1592}\
+\date{Enter name}
 
 % You can use arbitrary LaTex markup inside of these commands.
 % Here we're using a command to generate
 % text that will be used for a title section, and inserting a manual line break.
-\title{A \LaTeX Workshop \\ for All Skill Levels}
+\title{A \LaTeX document test}
 
 % Later on, we'll call a command to make a title section (or even a title page)
 % which will use these variables.
@@ -33,6 +33,12 @@
 
 % This command just gives us a nicely formatted title, using the variables we set earlier.
 \maketitle
+
+% This command adds a page break. 
+\newpage
+
+% To create a table of contents, add the command below
+\tableofcontents
 
 % Most document classes expect your content to be broken up into logical chunks. For the article
 % class, it's sections, subsections, and so on.
@@ -47,15 +53,12 @@ Create new paragraphs by pressing Enter twice.
 The Latex engine also takes care of numbering your sections automatically. 
 
     % And the numbering is hierarchical.
-    \subsection{Mathematics}
+    \subsection{Main Content Subsection}
 
-        \subsubsection{Inline Math}
+        \subsubsection{Main Content Subsubsection}
 
-        Things like $x+y = z$ or $f(x)=ax^2 + bx + c$ is rendered right along with your text.
-
-        \subsubsection{Equations}
-        You can also do full equations on their own lines such as $$ \sum_{i=0}^\infty i = -\frac{1}{12} $$.
-
+        \subsubsection{Main Content Subsubsection 2}
+        
     \subsection{Wrap Up}
     That's all for this section.
 
