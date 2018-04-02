@@ -44,9 +44,9 @@ All of the tools we discussed are also linked at the bottom.
 * [Document Structure and Style](https://github.com/ckearney07/latex-sp17-intro-workshop/blob/master/References/4%20-%20Structure.tex)
 	- Each class has a number of options you can specify. Common options might include font size, number of columns, margins, type of paper, etc.
 	- There are also many, many classes to choose from. Each one provides a different default styling, and occasionally new commands you can use to further customize your formatting. Examples classes include: report, book, slides, article, letter
-* Table of Contents
+* [Math Equations](https://github.com/ckearney07/LatexIntroWorkshop/blob/master/References/4%20-%20Structure_Math.tex)
 	- add \tableofcontents after \begin{document}
-* Environments: Lists and tables
+* [Environments: Lists and tables](https://github.com/ckearney07/LatexIntroWorkshop/blob/master/References/5%20-%20Structure_Math_Environments)
 * Bibliography
 
 # Live Code
