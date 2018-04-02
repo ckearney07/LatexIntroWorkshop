@@ -52,7 +52,7 @@ All of the tools we discussed are also linked at the bottom.
 * Bibliography
 
 # Live Code
-- [Completed Live Code Document](https://www.sharelatex.com/project/58a66588dc437fe62c880e91)
+- [Completed Live Code Document](https://www.sharelatex.com/project/5ac270b76f8fb00b474e78f6)
 
 # Additional References
 - Minimal documents, writing theorems/proofs, structuring your document, advanced environments and more: 
