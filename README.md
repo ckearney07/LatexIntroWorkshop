@@ -17,7 +17,7 @@ Please use a laptop to follow along!
 
 # Topics Covered
 * Why choose Latex
-	* [Examples](https://www.overleaf.com/latex/examples) of actual LaTeX docs 
+	* Examples of actual LaTeX docs 
 * Writing your first Latex document
 * Titles, dates, and authors
 * Sections and subsections
@@ -38,6 +38,7 @@ If you're interested in learning more, there are also a number of ShareLatex pro
 All of the tools we discussed are also linked at the bottom.
 
 # Lets Play!
+* [Examples](https://www.overleaf.com/latex/examples) of actual LaTeX docs 
 * [Write your first Latex document](https://github.com/ckearney07/latex-sp17-intro-workshop/blob/master/References/1%20-%20Minimal.tex)
 * [ShareLatex default](https://github.com/ckearney07/latex-sp17-intro-workshop/blob/master/References/2%20-%20Sharelatex%20Default.tex)
 	- When you start a new, blank, project in ShareLaTeX, the default document pre-populates a number of things for you, giving you a document that is guarantee to compile. The template utilizes a few more features than the minimal document, though.
