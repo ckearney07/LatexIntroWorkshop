@@ -18,13 +18,13 @@ Please use a laptop to follow along!
 # Topics Covered
 * Why choose Latex
 	* Examples of actual LaTeX docs 
-* Writing your first Latex document
+* Write your first Latex document
 * Titles, dates, and authors
 * Sections and subsections
 * Document Classes
 * Math examples
-    * Inline, equation, align environments 
-* Enviornments: Tables, lists
+    * Inline, equation
+* Environments
 
 # Getting Started
 1. Make sure that you have an account on [ShareLatex.com](https://www.sharelatex.com)
