@@ -53,6 +53,7 @@ All of the tools we discussed are also linked at the bottom.
 
 # Live Code
 - [Completed Live Code Document](https://www.sharelatex.com/project/5ac270b76f8fb00b474e78f6)
+- [Tulane University Thesis/Dissertation template](https://www.sharelatex.com/project/5ac2a2076f8fb00b474e8882)
 
 # Useful Tools
 * Document Samples:
