@@ -17,7 +17,7 @@ Please use a laptop to follow along!
 
 # Topics Covered
 * Why choose Latex
-	* Demos of actual LaTeX docs 
+	* [Examples](https://www.overleaf.com/latex/examples) of actual LaTeX docs 
 * Writing your first Latex document
 * Titles, dates, and authors
 * Sections and subsections
