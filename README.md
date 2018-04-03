@@ -4,7 +4,7 @@ Source files, links, and references for the Tulane Howard-Tilton Memorial Librar
 If you haven't already, please sign in [here](https://goo.gl/forms/DbSpNcUIvKwk7Jyi2)
 
 # Description
-Latex is a markup language, like HTML, that gives you a way to type up documents that looks clean and professional.
+Latex is a markup language, like HTML, that gives you a way to type up documents that look clean and professional.
 
 It is widely used across academia for [publications](https://www.overleaf.com/gallery/tagged/academic-journal#.WsJaLujwaUk), [theses](https://www.overleaf.com/gallery/tagged/thesis#.WsJaeujwaUk), and [books](https://www.overleaf.com/gallery/tagged/book#.WsJaZ-jwaUk).
 
