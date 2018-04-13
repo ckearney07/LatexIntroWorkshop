@@ -4,7 +4,7 @@ Source files, links, and references for the Tulane Howard-Tilton Memorial Librar
 If you haven't already, please sign in [here](https://goo.gl/forms/DbSpNcUIvKwk7Jyi2)
 
 # Description
-Latex is a markup language, like HTML, that gives you a way to type up documents that looks clean and professional.
+Latex is a markup language, like HTML, that gives you a way to type up documents that look clean and professional.
 
 It is widely used across academia for [publications](https://www.overleaf.com/gallery/tagged/academic-journal#.WsJaLujwaUk), [theses](https://www.overleaf.com/gallery/tagged/thesis#.WsJaeujwaUk), and [books](https://www.overleaf.com/gallery/tagged/book#.WsJaZ-jwaUk).
 
@@ -17,14 +17,14 @@ Please use a laptop to follow along!
 
 # Topics Covered
 * Why choose Latex
-	* Demos of actual LaTeX docs 
-* Writing your first Latex document
+	* Examples of actual LaTeX docs 
+* Write your first Latex document
 * Titles, dates, and authors
 * Sections and subsections
 * Document Classes
 * Math examples
-    * Inline, equation, align environments 
-* Enviornments: Tables, lists
+    * Inline, equation
+* Environments
 
 # Getting Started
 1. Make sure that you have an account on [ShareLatex.com](https://www.sharelatex.com)
@@ -38,6 +38,7 @@ If you're interested in learning more, there are also a number of ShareLatex pro
 All of the tools we discussed are also linked at the bottom.
 
 # Lets Play!
+* [Examples](https://www.overleaf.com/latex/examples) of actual LaTeX docs 
 * [Write your first Latex document](https://github.com/ckearney07/latex-sp17-intro-workshop/blob/master/References/1%20-%20Minimal.tex)
 * [ShareLatex default](https://github.com/ckearney07/latex-sp17-intro-workshop/blob/master/References/2%20-%20Sharelatex%20Default.tex)
 	- When you start a new, blank, project in ShareLaTeX, the default document pre-populates a number of things for you, giving you a document that is guarantee to compile. The template utilizes a few more features than the minimal document, though.
@@ -53,6 +54,7 @@ All of the tools we discussed are also linked at the bottom.
 
 # Live Code
 - [Completed Live Code Document](https://www.sharelatex.com/project/5ac270b76f8fb00b474e78f6)
+- [Tulane University Thesis/Dissertation template](https://www.sharelatex.com/project/5ac2a2076f8fb00b474e8882)
 
 # Useful Tools
 * Document Samples:
